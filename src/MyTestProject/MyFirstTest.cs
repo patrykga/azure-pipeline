@@ -1,5 +1,5 @@
 using NUnit.Framework;
-using MyTestProject;
+using MyProject;
 
 namespace MyTestProject
 {
