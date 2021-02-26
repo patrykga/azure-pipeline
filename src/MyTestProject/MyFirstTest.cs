@@ -1,4 +1,5 @@
 using NUnit.Framework;
+using MyTestProject;
 
 namespace MyTestProject
 {
