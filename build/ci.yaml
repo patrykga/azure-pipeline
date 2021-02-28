@@ -12,8 +12,6 @@ jobs:
       inputs:
         command: 'restore'
         projects: '**/*.csproj'
-        feedsToUse: 'select'
-        vstsFeed: '9052b4e3-98d4-4e8e-b2f0-f9eac740ab1d'
     - task: DotNetCoreCLI@2
       displayName: 'dotnet build'
       inputs:
